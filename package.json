@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "build": "echo 'No build step needed for trading bot'"
   },
   "keywords": [],
   "author": "",
