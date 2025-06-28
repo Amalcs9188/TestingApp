@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node bot.js",
     "build": "echo 'No build step needed for trading bot'"
+
   },
   "keywords": [],
   "author": "",
@@ -13,7 +14,7 @@
   "dependencies": {
     "axios": "^1.10.0",
     "binance-api-node": "^0.12.9",
-    "dotenv": "^16.6.0",
+    "dotenv": "^16.6.1",
     "node-telegram-bot-api": "^0.66.0",
     "technicalindicators": "^3.1.0"
   }
